@@ -65,6 +65,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Hat tip to anyone whose code was used
+- A big thanks to [@Maclinz](https://github.com/Maclinz)
 - Inspiration
 - etc
 
