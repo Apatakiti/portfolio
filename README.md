@@ -13,7 +13,7 @@
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://ademola-coding.github.io/PORTFOLIO/)
+[Live Demo Link](https://ademola-coding.github.io/portfolio/)
 
 
 ## Getting Started
