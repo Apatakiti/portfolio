@@ -9,7 +9,7 @@
 
 - HTMl, CSS and JavaScript
 
-## Live Demo (if available)
+## Live Demo
 
 [Live Demo Link](https://apatakiti.github.io/portfolio/)
 
